@@ -1,0 +1,6 @@
+*.pcap
+*.pcapng
+*.evtx
+*.ovpn
+*.zip
+.DS_Store
